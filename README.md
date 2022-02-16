@@ -1,4 +1,4 @@
-# 02 Mini Sistema de Controle de Estoque
+# Mini Sistema de Controle de Estoque
 Este programa simula um sistema de controle de estoque extremamente simplificado, no qual o usuário nos fornece três informações:
 1. Nome do produto;
 2. Categoria a que o produto pertence;
